@@ -28,13 +28,11 @@ Repo for Introduction to Python Programming for Data Science | dataquest.io
     # exervise code:
 
     # Minecraft: Pocket Edition cost, rating count, and user rating
-    ```Python
     
     print(6.99) # was commented out
     print(522012)
     print(4.5)
 
-    ```
 ## Day X | YYYY-MM-DD
 
 ### Section
