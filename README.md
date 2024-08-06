@@ -22,8 +22,19 @@ Repo for Introduction to Python Programming for Data Science | dataquest.io
     # set of instructions in 'code' that the machine follows
     # a program can be complex but it can also be as simple as one line
 
+#### Code Comments
 
+    # comments are used to provide additional explainations w/o code running
+    # exervise code:
 
+    # Minecraft: Pocket Edition cost, rating count, and user rating
+    ```Python
+    
+    print(6.99) # was commented out
+    print(522012)
+    print(4.5)
+
+    ```
 ## Day X | YYYY-MM-DD
 
 ### Section
