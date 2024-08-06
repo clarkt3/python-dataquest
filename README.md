@@ -33,6 +33,10 @@ Repo for Introduction to Python Programming for Data Science | dataquest.io
     print(522012)
     print(4.5)
 
+
+#### Arithmetical Operations
+
+    # 
 ## Day X | YYYY-MM-DD
 
 ### Section
