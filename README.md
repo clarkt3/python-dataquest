@@ -17,6 +17,13 @@ Repo for Introduction to Python Programming for Data Science | dataquest.io
 
     # each print statement must go on the same line
 
+#### Computer Programs
+
+    # set of instructions in 'code' that the machine follows
+    # a program can be complex but it can also be as simple as one line
+
+
+
 ## Day X | YYYY-MM-DD
 
 ### Section
